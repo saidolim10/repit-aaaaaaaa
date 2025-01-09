@@ -1,0 +1,157 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+
+.select {
+    border: none;
+    font-size: 38px;
+}
+
+.language {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-wrapper {
+    padding: 45px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+
+}
+
+main{
+    padding-top: 40px;
+}
+
+.section-wrapper {
+    width: 50%;
+}
+
+.section-wrapper {
+    width: 800px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 30px 20px 20px 20px;
+}
+
+.top-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.h2main {
+    color:  #F0400F;
+    font-size: 24px;
+}
+
+.top-right-side {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper-middle {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+
+
+}
+
+.name {
+    color: #0E0D5D;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.middle-middle {
+   margin-top: 40px;
+    width: 70%;
+    background: #F5F5F5;
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+border-radius: 15px;
+padding: 8px 11px;
+}
+
+
+.midddle-button {
+    text-align: center;
+    font-size: 28px;
+   color: black;
+   border: none;
+   padding: 10px 40px;
+   background-color: white;
+   border-radius: 20px;
+}
+
+
+.midddle-button2 {
+    text-align: center;
+    font-size: 28px;
+    color: black;
+    border: none;
+    padding: 10px 40px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.form {
+    width: 100%
+
+}
+
+.inputLogin {
+    border-radius: 20px;
+    width: 70%;
+    padding: 20px 40px;
+}
+
+.Inputpasword {
+    border-radius: 20px;
+    width: 70%;
+    padding: 20px 40px;
+}
+
+.inputtext {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.end-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.end-button {
+    background: #F0400F;
+    color: white;
+    padding: 20px 50px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.eye{
+    position: relative;
+    left: 240px;
+    bottom: 65px;
+}
